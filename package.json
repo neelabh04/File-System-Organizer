@@ -1,0 +1,15 @@
+{
+  "name": "file-system-organizer",
+  "version": "1.0.0",
+  "description": "Commands available\r Tree -> gives the tree path for the folder choosen\r Organize -> organises the folder in which used according to the various file formats available.\r Help -> Gives the list of commands available.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin":{
+    "jake": "main.js"
+  }
+}
